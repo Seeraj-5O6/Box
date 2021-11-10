@@ -1,0 +1,43 @@
+body{
+  margin: 0px;
+}
+h1{
+  margin: 0px;
+}
+
+.s33s{
+  background-color:blue;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+ border:solid 10px;
+}
+
+.sms{
+  background-color:#88E0EF;
+  height:200px;
+  width:200px;
+  border:solid 20px;
+  margin-left:260px;
+  border-color:#FF0075;
+  padding:20px;
+}
+
+.ss{
+  background-color:#49FF00;
+  height: 200px;
+  width: 200px;
+  border:solid 10px;
+  margin-left: 540px;
+  border-color:brown;
+  padding:20px;
+}
+
+p2{
+  background-color: red;
+  width:100px;
+}
+
+span{
+  background-color: blue;
+}
